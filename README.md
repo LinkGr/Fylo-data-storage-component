@@ -31,8 +31,9 @@ Users should be able to:
 
 ### Links
 
-[Frontend Mentor Solution URL](https://your-solution-url.com)
-[Live Site URL](https://your-live-site-url.com)
+[Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/fylodatastoragecomponent-8FHGeIpFpN)
+
+[Live Site URL](https://linkgr.github.io/Fylo-data-storage-component/)
 
 ## My process
 
