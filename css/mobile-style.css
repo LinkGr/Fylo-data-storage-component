@@ -1,0 +1,39 @@
+
+
+body {
+    background-image: url(../images/bg-mobile.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    grid-template-columns: 100%;
+    grid-template-rows: 55% 45%;
+
+    max-width: 310px;
+    max-height: 350px;
+}
+
+#space-info-container {
+    align-items: center;
+
+    padding: 0% 12% 13% 12%;
+}
+#space-bar-showing {
+    height: 16%;
+}
+
+#dialog-balloon {
+    top: auto;
+    right: auto;
+    bottom: 0;
+    transform: translate(10%, 50%);
+
+    width: 55%;
+    height: 45%;
+    border-bottom-right-radius: 10px;
+}
+
+#dialog-balloon > div {
+    display: none;
+}
