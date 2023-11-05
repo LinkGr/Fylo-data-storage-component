@@ -16,8 +16,13 @@ main {
 
 #space-info-container {
     align-items: center;
+    height: 100%;
 
-    padding: 0% 12% 13% 12%;
+    padding: 0% 11% 13% 11%;
+}
+#space-info-container > p {
+    font-size: 1.3rem;
+    padding: 3%;
 }
 #space-bar-showing {
     height: 16%;
