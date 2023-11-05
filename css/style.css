@@ -104,11 +104,12 @@ main > section {
     gap: 8%;
     padding: 0% 10% 0% 10%;
 }
-#space-info-container > p {
-    font-size: 1.5rem;
+#space-info-container > h1 {
+    font-size: 1.4rem;
+    font-weight: 400;
     color: var(--Grayish-Blue);
 }
-#space-info-container > p > span {
+#space-info-container > h1 > span {
     color: var(--Pale-Blue) !important;
     font-weight: 700;
 }
